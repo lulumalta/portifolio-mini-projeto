@@ -1,18 +1,18 @@
 const projects = [
   {
     id: 1,
-    title: 'Portfolio (this project)',
+    title: 'Cadastro de Pets',
     description: 'Landing page built with React + Sass — responsive, animated and accessible.',
     image: '/src/assets/project1.jpg',
-    github: 'https://github.com/yourusername/portfolio',
+    github: 'https://github.com/lulumalta/projeto-pet-shop.git',
     demo: ''
   },
   {
     id: 2,
-    title: 'Ótica App Mock',
-    description: 'Mockup de interface para ótica — catálogo e contato rápido.',
+    title: 'Quiz do aranhaverso',
+    description: 'Mockup de interface para quiz.',
     image: '/src/assets/project2.jpg',
-    github: 'https://github.com/yourusername/optical-mock',
+    github: 'https://github.com/Luana13-bit/PROJETO-FINAL-M2.git',
     demo: ''
   }
 ]
