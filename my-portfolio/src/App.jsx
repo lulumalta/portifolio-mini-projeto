@@ -1,4 +1,5 @@
 import "./styles/global.scss"; // depois vamos criar esse arquivo
+//import { useState } from "react";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import About from "./components/about";
@@ -8,7 +9,7 @@ import Footer from "./components/Footer";
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  //const [count, setCount] = useState(0)
 
   return (
     <>
